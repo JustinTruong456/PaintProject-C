@@ -1,0 +1,7 @@
+Paint Place Sales Report
+
+High Gloss: $259.90
+2.5in Trim:  $51.96
+9in Roller: $47.92
+
+Total sales: $359.78
